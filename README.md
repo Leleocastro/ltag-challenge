@@ -10,17 +10,18 @@ Para realizar esse desafio você vai precisar:
 
 
 # Descrição do aplicativo
-O aplicativo deverá seguir o layout do figma no link : https://www.figma.com/file/b1qcGS8n2NJ3koOlgu0EnF/Desafio-Flutter-Traux?node-id=0%3A1.
+O aplicativo deverá seguir o layout do figma no link : https://www.figma.com/file/b1qcGS8n2NJ3koOlgu0EnF/Desafio-Flutter-Traux?node-id=0%3A1.  
 Caso tenha problema de acesso, entre em contato conosco.
 
-Será composto por duas telas: uma de listagem dos filmes e outra de detalhes do filme.
+Será composto por duas telas: uma de listagem dos filmes e outra de detalhes do filme.  
 Deve ser possível filtrar os filmes por:
 
 - Nome (Campo de Texto)
 
 
 # Critérios que serão avaliados
-O único critério **obrigátorio** para a entrega é o correto funcionamento do app de acordo com a **descrição**, mas lembre que você será avaliado. Segue alguns pontos de atenção:
+O único critério **obrigátorio** para a entrega é o correto funcionamento do app de acordo com a **descrição**, mas lembre que você será avaliado.  
+Segue alguns pontos de atenção:
 
 - Arquitetura Utilizada
 - Legibilidade do código
