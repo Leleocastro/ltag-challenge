@@ -5,7 +5,7 @@ Para realizar esse desafio você vai precisar:
 
 - Consumir os dados da API The Movie DB (https://developers.themoviedb.org/3/getting-started/introduction);
 - Desenvolver a aplicação em Flutter
-- Utilizar o padrão de arquitetura que preferir (MVP, MVP, MVVM, Bloc, MobX, etc)
+- Utilizar o padrão de arquitetura que preferir (MVC, MVP, MVVM, Bloc, MobX, etc)
 - Disponibilizar o código num repositório (Github, Gitlab, Bitbucket...) e nos enviar o link.
 
 
