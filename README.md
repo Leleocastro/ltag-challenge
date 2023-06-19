@@ -10,7 +10,7 @@ Para realizar esse desafio você vai precisar:
 
 
 # Descrição do aplicativo
-O aplicativo deverá seguir o layout do figma no link : https://www.figma.com/file/b1qcGS8n2NJ3koOlgu0EnF/Desafio-Flutter-Traux?node-id=0%3A1.  
+O aplicativo deverá seguir o layout do figma no link : https://www.figma.com/file/b1qcGS8n2NJ3koOlgu0EnF/Desafio-Flutter.  
 Caso tenha problema de acesso, entre em contato conosco.
 
 Será composto por duas telas: uma de listagem dos filmes e outra de detalhes do filme.  
